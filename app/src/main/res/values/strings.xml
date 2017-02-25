@@ -3,4 +3,10 @@
     <string name="txt_channel">Channel</string>
     <string name="txt_events">Events</string>
     <string name="txt_news">News</string>
+
+    <!-- font block -->
+    <string name="cabin_medium">fonts/Cabin-Medium.ttf</string>
+    <string name="opensans_regular">fonts/OpenSans-Regular.ttf</string>
+    <string name="opensans_semibold">fonts/OpenSans-Semibold.ttf</string>
+    <string name="txt_menu">Menu</string>
 </resources>
