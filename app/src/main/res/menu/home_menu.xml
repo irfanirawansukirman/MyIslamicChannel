@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home_channel"
+        android:enabled="true"
+        android:icon="@drawable/ic_camera_movie"
+        android:title="@string/txt_channel"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/home_news"
+        android:enabled="true"
+        android:icon="@drawable/ic_rss"
+        android:title="@string/txt_news"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/home_event"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar_event"
+        android:title="@string/txt_events"
+        app:showAsAction="ifRoom" />
+</menu>

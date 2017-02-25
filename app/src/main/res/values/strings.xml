@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Islamic Channel</string>
+    <string name="txt_channel">Channel</string>
+    <string name="txt_events">Events</string>
+    <string name="txt_news">News</string>
 </resources>
